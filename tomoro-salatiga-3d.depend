@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1723302128 source:d:\all-about-programming\text-editor\githubrepository\chilllikehuman\tomoro-salatiga-3d\src\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\assert.h
+	<crtdefs.h>
+	<stdlib.h>
+
+1526093416 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\crtdefs.h
+	<_mingw.h>
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw.h
+	"_mingw_mac.h"
+	"_mingw_secapi.h"
+	"_cygwin.h"
+	<vadefs.h>
+	"sdks/_mingw_directx.h"
+	"sdks/_mingw_ddk.h"
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_mac.h
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\_mingw_secapi.h
+
+1526093416 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\_cygwin.h
+	<stddef.h>
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\stddef.h
+	<crtdefs.h>
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\vadefs.h
+	<_mingw.h>
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\sdks\_mingw_directx.h
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\sdks\_mingw_ddk.h
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\stdlib.h
+	<crtdefs.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\limits.h
+	<crtdefs.h>
+
+1526093414 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1526093416 d:\all-about-programming\text-editor\codeblocks\application\codeblocks\mingw\x86_64-w64-mingw32\include\malloc.h
+	<crtdefs.h>
+
+1723302128 d:\all-about-programming\text-editor\githubrepository\chilllikehuman\tomoro-salatiga-3d\include\imageloader.h
+
